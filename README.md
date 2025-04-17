@@ -1,4 +1,4 @@
-# regression_analysis_project
+# Regression Analysis Project
 The aim of this project is to analyse the “Energy Efficiency” dataset from the UCI Machine Learning Repository and study the contribution of several building features such as Relative Compactness, Surface Area, Wall Area, Overall Height, Orientation etc. on the target feature - Cooling Load, using the concepts of multiple linear regression. Additionally, model adequacy checks and variable selection procedures are performed on the dataset for achieving the model with the most significant variables. Finally, the ideal regression model chosen after appropriate model validation is used to predict the cooling load.
 
 The dataset taken into consideration for this project was the “Energy Efficiency” dataset from the UCI Machine Learning Repository. The dataset consisted of a total of 10 variables with 768 observations of various attributes with different building shapes. Among the 10 variables 8 were feature variables and 2 were target variables. The attributes and their definitions are given in the below table.
